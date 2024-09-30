@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+  }
+ body{
+    background-color: #2f93ad;
+ }
+ h1{
+    color: white;
+    font-weight: bold;
+ }
+  div{ 
+    
+    width: 100%;
+    margin-left : 30%
+    }
+    
+    input{
+        background-color: #c4e2f5;
+        border: 1px solid white;
+    }
+    textarea{
+        background-color: #c4e2f5;
+    }
+    select{
+        background-color: #c4e2f5;
+    }
+    label{
+        color: white;
+        font-size: 20px;
+    }
+  #width_50{
+    width: 20%;
+    padding: 10px;
+    border-radius: 10px;
+
+  }
+  #width_60{
+    width: 30%;
+    padding: 10px;
+    border-radius: 10px;
+
+  }
+  
+  #width_100{
+    width: 40%;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  #width_10{
+    width: 10%;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  #button{
+    background-color: #50e3c2;
+    padding: 10px;
+    width: 100px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+  }
